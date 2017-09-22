@@ -1,1 +1,2 @@
-# gitcore1
+
+starting my project
